@@ -2,12 +2,12 @@
 >## Phonology
 | CONSONANTS | Bilabial | Labio Dental | Interdental | Alveolar | Palatal | Velar | Glottal | Uvular |
 |-|-|-|-|-|-|-|-|-
-| **Stop** | p b - π β | | | t d - τ δ | c g q - κ γ
+| **Stop** | p b - π β | | | t d - τ δ | k ɡ kʷ (c g q - κ γ κυ)
 | **Fricative** | | f - φ | th - θ | s - ς | | | h - η |x - χ
 | **Affricate** | | v - ψ | | z - ζ
 | **Nasal** | m - μ | | | n - ν
 | **Lateral** | | | | l - 
-| **Approximant** | u -  | | | i j - 
+| **Approximant** | u -  | | | i j - ι
 
 | VOWELS | Frontal | Central | Back
 |-|-|-|-
