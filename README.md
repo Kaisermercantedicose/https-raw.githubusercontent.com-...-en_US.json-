@@ -4,7 +4,7 @@
 |-|-|-|-|-|-|-|-|-
 | **Stop** | p b - π β | | | t d - τ δ | k ɡ kʷ (c g q - κ γ κυ)
 | **Fricative** | | f - φ | th - θ | s - ς | | | h - η |x - χ
-| **Affricate** | | v - ψ | | z - ζ
+| **Affricate** | | v - ψ | | z - ϟ
 | **Nasal** | m - μ | | | n - ν
 | **Lateral** | | | | l - 
 | **Approximant** | u -  | | | i j - ι
