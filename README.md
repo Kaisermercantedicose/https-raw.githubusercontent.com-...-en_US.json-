@@ -2,9 +2,9 @@
 >## Phonology
 | CONSONANTS | Bilabial | Labio Dental | Interdental | Alveolar | Palatal | Velar | Glottal | Uvular |
 |-|-|-|-|-|-|-|-|-
-| **Stop** | p b - π β | | | t d - τ δ | k ɡ kʷ (c g q - κ γ κυ)
+| **Stop** | p b - π β | | | t d - τ δ | k ɡ kʷ (c g q - ϟ γ κυ)
 | **Fricative** | | f - φ | th - θ | s - ς | | | h - η |x - χ
-| **Affricate** | | v - ψ | | z - ϟ
+| **Affricate** | | v - ψ | | z - ζ
 | **Nasal** | m - μ | | | n - ν
 | **Lateral** | | | | l - 
 | **Approximant** | u -  | | | i j - ι
