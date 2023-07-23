@@ -1,7 +1,7 @@
 # The Imperian Language
 >## Phonology
 | CONSONANTS | Bilabial | Labio Dental | Interdental | Alveolar | Palatal | Velar | Glottal | Uvular |
-|--------------------|----------|----------------|--------------|------------|--------|-------|---------|--
+|-|-|-|-|-|-|-|-|-
 | **Stop** | p b - π β | | | t d - τ δ | c g q - κ γ
 | **Fricative** | | f - φ | th - θ | s - ς | | | h - η |x - χ
 | **Affricate** | | v - ψ | | z - ζ
@@ -10,7 +10,7 @@
 | **Approximant** | u -  | | | i j - 
 
 | VOWELS | Frontal | Central | Back
-|--|--|--|--
+|-|-|-|-
 | **High** | i - ι |  | u - υ
 | **Middle** | e - ε | | o
 | **Low** | a - α
@@ -26,7 +26,7 @@ The grammar of Imperian is pretty similar to the Latin grammar (rather, it's alm
 This is called [*"Split-Ergativity"*](https://en.wikipedia.org/wiki/Split_ergativity) plus irregularity to make it seem more natural (not an idea of `IORGIVS·PATRICII`).
 >## Declensions Cases
 | 1ST DECLENSION | Singular | Plural
-|--|--|-
+|-|-|-
 |**NOM** | -us | -es
 | **ACC** | -am | -as
 | **GEN** | -ei | -orum
