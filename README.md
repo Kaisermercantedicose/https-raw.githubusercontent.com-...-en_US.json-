@@ -27,7 +27,7 @@ This is called [*"Split-Ergativity"*](https://en.wikipedia.org/wiki/Split_ergati
 >## Declensions Cases
 | 1ST DECLENSION | Singular | Plural
 |-|-|-
-|**NOM** | -us | -es
+| **NOM** | -us | -es
 | **ACC** | -am | -as
 | **GEN** | -ei | -orum
 | **ABL** | -a | -is
