@@ -8,7 +8,7 @@
 | **Nasal** | m - μ | | | n - ν
 | **Lateral** | | | | l - 
 | **Approximant** | u -  | | | i j - 
->
+
 | VOWELS | Frontal | Central | Back
 |--|--|--|--
 | **High** | i - ι |  | u - υ
