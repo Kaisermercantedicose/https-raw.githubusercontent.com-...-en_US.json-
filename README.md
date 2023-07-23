@@ -24,7 +24,7 @@ The grammar of Imperian is pretty similar to the Latin grammar (rather, it's alm
 - `5th` · Sentient (`NOM`)
 
 This is called [*"Split-Ergativity"*](https://en.wikipedia.org/wiki/Split_ergativity) plus irregularity to make it seem more natural (not an idea of `IORGIVS·PATRICII`).
->## Declensions Cases
+### Declensions Cases
 | 1ST DECLENSION | Singular | Plural
 |-|-|-
 | **NOM** | -us | -es
